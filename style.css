@@ -1,0 +1,44 @@
+body {
+    background-color: #333232;
+}
+
+#container {
+    background-color: #0f5984;
+    border: 5px solid #20126e;
+    height: 350px;
+    width: 350px;
+    margin: auto;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(199, 192, 192);
+    font-size: 100px;
+}
+
+p {
+    color: white;
+    font-size: 25px;
+}
+
+#userInput {
+    width: 150px;
+    height: 23px;
+    margin: 25px auto;
+}
+
+#enterButton {
+   
+    width: 50px;
+    height: 28px;
+    margin: 25px auto;
+    
+}
+#againButton{
+    width: 80px;
+    height: 28px;
+   
+}
+
+    
